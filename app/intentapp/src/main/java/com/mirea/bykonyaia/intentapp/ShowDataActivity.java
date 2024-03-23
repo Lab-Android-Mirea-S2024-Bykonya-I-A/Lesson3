@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class ShowDataActivity extends AppCompatActivity {
-    static private final int MyNumberInGroup = 5;
+    static private final int MyNumberInGroup = 4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
